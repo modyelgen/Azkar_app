@@ -1,0 +1,1 @@
+const List<String>prayersName=['Fajr','Duha','Dhuhr','Asr','Maghrib','Isha'];
